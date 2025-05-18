@@ -1,0 +1,37 @@
+[
+  {
+    "eventId": 1,
+    "name": "Downtown Plaza Food Fest",
+    "location": "123 Main St, Cityville",
+    "date": "2025-06-01",
+    "time": "11:00 AM - 5:00 PM"
+  },
+  {
+    "eventId": 2,
+    "name": "Farmers Market Fiesta",
+    "location": "Market St, Townsville",
+    "date": "2025-06-03",
+    "time": "9:00 AM - 2:00 PM"
+  },
+  {
+    "eventId": 3,
+    "name": "City Park Summer Festival",
+    "location": "Park Ave, Cityville",
+    "date": "2025-06-05",
+    "time": "12:00 PM - 8:00 PM"
+  },
+  {
+    "eventId": 4,
+    "name": "University Campus Food Truck Rally",
+    "location": "University Rd, College Town",
+    "date": "2025-06-07",
+    "time": "10:00 AM - 4:00 PM"
+  },
+  {
+    "eventId": 5,
+    "name": "Beach Boardwalk Bash",
+    "location": "Ocean Dr, Seaside",
+    "date": "2025-06-10",
+    "time": "11:00 AM - 6:00 PM"
+  }
+]
