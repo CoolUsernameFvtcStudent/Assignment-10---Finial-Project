@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             
             div.innerHTML =
             `
-                <img src="img/${item.name}.jpg" alt="${item.name}" width=200px height=200px class="menu-img">
+                <img src="img/${item.name}.jpg" alt="${item.name}" width=200px height=200px class="menu-img" style="display: block; margin: auto;">
                 <h2>${item.name}</h2>
                 <p>${item.description}</p>
                 <p><strong>$${item.price.toFixed(2)}</strong></p>
@@ -32,7 +32,40 @@ document.addEventListener('DOMContentLoaded', async () => {
     }catch (error){
         //console.error(`Failed To Fetch Menu, ${error}`)
     }
+
+
+
+
+
+
+    const WeirdVariableNameToKeepMySanityThatFindsTheAllz = document.getElementById('Allz')
+    const UserInputArea = document.createElement('form')
+    Form.id = 'event-form'
+
+    div.innerHTML =
+            `
+                <h2>New</h2>
+                <label></label>
+                <p><strong>$${item.price.toFixed(2)}</strong></p>
+            `
+
+
+
+
+
+
+
+
 })
+
+
+
+
+
+
+
+
+
 
 
 window.onload = () => {
